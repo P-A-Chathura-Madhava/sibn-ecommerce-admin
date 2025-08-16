@@ -7,7 +7,7 @@ import React from "react";
 function AddColorPage() {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="flex">
         <AppSidebar />
         <div className="px-8 w-full">

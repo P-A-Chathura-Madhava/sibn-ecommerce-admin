@@ -70,7 +70,7 @@ export default function EditColorPage() {
 
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="flex">
         <AppSidebar />
         <div className="px-8 w-full">

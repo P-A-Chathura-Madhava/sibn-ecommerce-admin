@@ -6,7 +6,7 @@ import React from 'react'
 function FilteredProducts() {
   return (
         <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="flex">
         <AppSidebar />
         <div className="px-8 w-full">

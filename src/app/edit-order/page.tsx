@@ -16,7 +16,7 @@ export default function EditOrderPage() {
 
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="flex">
         <AppSidebar />
         <div className="px-8 w-full">
